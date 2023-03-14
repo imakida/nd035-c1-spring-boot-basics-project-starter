@@ -2,7 +2,7 @@ package com.udacity.jwdnd.course1.cloudstorage.models;
 
 import org.springframework.stereotype.Component;
 
-//@Component
+// @Component
 public class User {
     private Integer userId;
     private String username;
